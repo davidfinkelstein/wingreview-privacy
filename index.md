@@ -59,7 +59,7 @@ Wing Review is not directed to children under 13, and we do not knowingly collec
 
 ## Contact Us
 If you have questions, contact:
-- **David Finkelstein**
+ **David Finkelstein**
 - Email: **wingreviewhelp@gmail.com**
 
 ## Changes to This Privacy Policy
