@@ -58,9 +58,9 @@ If you delete your account, we delete or de-identify your personal data within a
 Wing Review is not directed to children under 13, and we do not knowingly collect personal information from children.
 
 ## Contact Us
-If you have questions, contact:
- **David Finkelstein**
-- Email: **wingreviewhelp@gmail.com**
+If you have questions, contact:  
+**David Finkelstein**  
+Email: **wingreviewhelp@gmail.com**
 
 ## Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. When we do, we will revise the “Last updated” date at the top of this page. If we make material changes, we may provide additional notice in the app. Your continued use of the app after an update means you accept the updated policy.
