@@ -59,8 +59,8 @@ Wing Review is not directed to children under 13, and we do not knowingly collec
 
 ## Contact Us
 If you have questions, contact:
-**David Finkelstein**
-Email: **wingreviewhelp@gmail.com**
+- **David Finkelstein**
+- Email: **wingreviewhelp@gmail.com**
 
 ## Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. When we do, we will revise the “Last updated” date at the top of this page. If we make material changes, we may provide additional notice in the app. Your continued use of the app after an update means you accept the updated policy.
