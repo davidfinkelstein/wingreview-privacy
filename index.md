@@ -39,6 +39,7 @@ We do **not** sell your personal information.
 
 ## User-Generated Content and Safety
 If you believe content is objectionable, please contact us at: **wingreviewhelp@gmail.com**.
+We may remove content/accounts that violate our rules or applicable law.
 
 ## Data Retention
 We keep information as long as needed to provide the service and for legitimate business purposes (e.g., security, compliance).
