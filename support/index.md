@@ -1,8 +1,8 @@
 # Wing Review Support
 
-If you need help with Wing Review, contact:
+If you need help with anything related to Wing Review, please contact:
 
-**David Finkelstein**  
+**David Finkelstein**
 Email: **wingreviewhelp@gmail.com**
 
 We try to respond as soon as possible.
