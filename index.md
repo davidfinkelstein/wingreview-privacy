@@ -1,5 +1,5 @@
 # Privacy Policy – Wing Review
-**Last updated:** January 5, 2026
+**Last updated:** January 6, 2026
 
 Wing Review (“we,” “us”) provides a platform for users to post restaurant chicken wing reviews and upload photos (“User Content”).
 This Privacy Policy explains what information we collect, how we use it, and what choices you have when using the app.
@@ -14,8 +14,8 @@ This Privacy Policy explains what information we collect, how we use it, and wha
 - **Device and app usage data:** device type, iOS version, and basic app version info (to help with compatibility and troubleshooting).
 - **Diagnostics:** We may receive crash reports and basic diagnostic information (for example, through Apple’s tools) to improve stability and fix bugs. We use diagnostic information only to improve stability and fix bugs, not for advertising.
   
-### Location (if you enable it)
-- If you allow location access, we may use approximate or precise location to help show nearby places and improve the experience.
+### Location (if enabled)
+- If you allow location access, we may use approximate or precise location to help show nearby restaurants and improve the experience.
 - You can use the app without sharing your location.
 - We do not use location data for advertising.
 
@@ -32,7 +32,7 @@ We may share information:
 - **With service providers:** We use trusted vendors to operate and improve the app:
   - **Supabase** helps us provide core infrastructure such as authentication, database hosting, and storage for user content (including uploaded photos). Supabase processes information you provide (such as account details and content you post) in order to provide the service.
   - **OneSignal** helps us send push notifications. OneSignal processes device information such as a push notification token and may process notification delivery/interaction data (for example, whether a notification was delivered or opened) to deliver notifications reliably.
-- **For safety and legal reasons** (e.g., to comply with law or respond to valid requests)
+- **For safety and legal reasons** (ex. to comply with law or respond to valid requests)
 - **With other users**: your profile and User Content may be visible to others
 
 We do **not** sell your personal information.
@@ -49,7 +49,7 @@ If you delete your account, we delete or de-identify your personal data within a
 - **Access / correction:** You can update certain info in-app.
 - **Deletion:** You can delete your account and request deletion of your data by:
   - Using the in-app account deletion feature (in settings), or
-  - Contacting us at **wingreviewhelp@gmail.com**
+  - Contacting us at **wingreviewhelp@gmail.com** and requesting we delete your account
 - **Location permissions:** You can change this in iOS Settings at any time.
 - **Push notifications:** You can enable or disable push notifications at any time in your device’s Settings.
 
